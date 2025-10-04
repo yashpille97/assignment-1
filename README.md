@@ -26,8 +26,8 @@ last_name=input("Enter your last name: ")
 # Concatenating names with a space
 full_name=first_name + " " + last_name
 #  Prints a personalized greeting message using the full name.
-print("Hello," ,full_name)
-print("Welcome To the Python Program")
+print("Hello," ,full_name + "! Welcome to Python Programming")
+
 
 
   
